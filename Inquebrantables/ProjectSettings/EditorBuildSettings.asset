@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MenuPrincipal.unity
+    guid: d1e30ec08e5e74a47b4b2648da221c66
+  - enabled: 1
+    path: Assets/Scenes/SeleccionLibros.unity
+    guid: 3bc87930fa5dac24db405cc9d8ec6ac8
+  - enabled: 1
+    path: Assets/Scenes/Libro.unity
+    guid: a68d366209c450649aba78a6814e5691
+  - enabled: 1
+    path: Assets/Scenes/EscenaPrincipal.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Batalla.unity
+    guid: a72d212f11db01b43be3fa5b91be79fe
+  - enabled: 1
+    path: Assets/Scenes/Libro2.unity
+    guid: 52d334a05dff50746914a669eea19960
+  - enabled: 1
+    path: Assets/Scenes/Escena2.unity
+    guid: db1aaa7d8667b2848a3c1bc7da94f3fe
+  - enabled: 1
+    path: Assets/Scenes/EscenaCampo.unity
+    guid: 4a9cf0f1f003caf46b77c396662bb22a
+  - enabled: 1
+    path: Assets/Scenes/Libro3.unity
+    guid: 9220667c616728246ae1917647d4f6f9
+  - enabled: 1
+    path: Assets/Scenes/BatallaFinal.unity
+    guid: c5130b1bc689bee4c8f78f2ac3bf2ad5
+  - enabled: 1
+    path: Assets/Scenes/MasLibros.unity
+    guid: e2ce33b27eed6014184994c576f641a6
+  m_configObjects: {}
