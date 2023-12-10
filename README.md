@@ -3,7 +3,7 @@ Los participantes de este proyecto somos Noelì Arenas 37644970 y Carlos Francis
 
 Tambien le hacemos entrega de:
 
--Documento de diseño del videojuego en este enlace: 
+-Documento de diseño del videojuego en este enlace: https://drive.google.com/file/d/1bXoxZL6GfX9l14PnDucrXdK8kLQUzWh9/view?usp=sharing
 
 
 -Carpeta del juego ejecutable: https://drive.google.com/file/d/1DvB7vMik7Dj9CRKcugOwTYPIOkgFM8bi/view?usp=sharing
